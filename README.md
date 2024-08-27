@@ -13,7 +13,7 @@ This repository includes implementations of different greedy approach problems, 
 2. **Frog Jump Problem**: Calculate the minimum cost required for a frog to jump across stones, where each stone has a specific cost.
 3. **Assign Cookies Problem**: Maximize the number of children who can be content with a limited number of cookies, where each cookie has a different size.
 4. **Insert Interval Problem**: Insert a new interval into a set of non-overlapping intervals, merging overlapping intervals as necessary.
-5.**CPU Scheduling Problem**: Optimize the order of processes in a CPU scheduling queue to minimize the total waiting time or maximize CPU utilization.
+5.**CPU Scheduling Problem**: Optimize the order of processes in a CPU scheduling queue to minimize the total waiting time or maximize CPU utilization. 
 ## Getting Started
 
 To use the code and examples provided in this repository, follow these steps:
